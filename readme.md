@@ -38,6 +38,9 @@ project/
 └── package.json
 ```
 
+Para acessar o Front-End, acesse: https://adopet-frontend-cypress.vercel.app
+Para acessar o Back-End, acesse: https://adopet-api-i8qu.onrender.com/adotante/
+
 ---
 
 ## 🔧 Instalação
